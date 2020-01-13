@@ -27,12 +27,10 @@ build-readme
 
 ## Development & Testing
 
-Install project dependencies locally.
+Install project dependencies locally and run linting:
 
 ```bash
 npm i
+
+npx eslint yourfile.js
 ```
-
-## Contributions
-
-Some JS help was provided by [sitepoint](https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/).

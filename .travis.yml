@@ -1,9 +1,12 @@
 language: node_js
 
-versions:
+node_js:
     - 8
     - 9
     - node
 
 script:
     - npm i
+    - npx eslint index.js
+    - npx eslint lib/*
+

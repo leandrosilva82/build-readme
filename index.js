@@ -18,10 +18,10 @@ console.log(
 );
 
 // Check to see if there is already a Readme
-/*if (files.directoryExists('readme.md', 'README.md', 'readme')) {
+if (files.directoryExists('readme.md', 'README.md', 'readme')) {
     console.log(chalk.red('Your project already has a README!'));
     process.exit();
-}*/
+}
 
 // Prompt the user to build the Readme
 const run = async () => {
