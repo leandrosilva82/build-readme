@@ -1,17 +1,20 @@
 <div align="center"> 
 
-<h1>Readme Generator</h1>
+<h1>Build Readme</h1>
 
 Generate a Readme for your project with a simple CLI tool.
 
-<img src="pics/banner.png">
+[![Build Status](https://travis-ci.org/Justintime50/build-readme.svg?branch=master)](https://travis-ci.org/Justintime50/build-readme)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+
+<img src="assets/showcase.gif">
 
 </div>
 
 ## Install
 
 ```bash
-npm i  -g justintime50-readme-generator
+npm i -g build-readme
 ```
 
 ## Usage
@@ -19,13 +22,17 @@ npm i  -g justintime50-readme-generator
 Run the following command and follow the prompts to generate a README file.
 
 ```bash
-readme-generator
+build-readme
 ```
 
 ## Development & Testing
 
-Install project dependencies.
+Install project dependencies locally.
 
 ```bash
 npm i
 ```
+
+## Contributions
+
+Some JS help was provided by [sitepoint](https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/).

@@ -1,0 +1,9 @@
+language: node_js
+
+versions:
+    - 8
+    - 9
+    - node
+
+script:
+    - npm i

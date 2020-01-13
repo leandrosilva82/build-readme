@@ -1,7 +1,7 @@
 {
-  "name": "readme-generator",
+  "name": "build-readme",
   "version": "1.0.0",
-  "description": "Generate a Readme for your project.",
+  "description": "Generate a Readme for your project with a simple CLI tool.",
   "main": "index.js",
   "dependencies": {
     "chalk": "^3.0.0",
@@ -16,16 +16,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Justintime50/readme-generator.git"
+    "url": "git+https://github.com/Justintime50/build-readme.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "build",
+    "readme",
+    "generate",
+    "project"
+  ],
+  "author": "Justintime50",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Justintime50/readme-generator/issues"
+    "url": "https://github.com/Justintime50/build-readme/issues"
   },
-  "homepage": "https://github.com/Justintime50/readme-generator#readme",
+  "homepage": "https://github.com/Justintime50/build-readme#readme",
   "bin": {
-    "readme-generator": "./index.js"
+    "build-readme": "./index.js"
   }
 }
