@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<h1>Build Readme</h1>
+# Build Readme
 
 Generate a Readme for your project with a simple CLI tool.
 
