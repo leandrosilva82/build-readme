@@ -11,6 +11,17 @@ Generate a Readme for your project with a simple CLI tool.
 
 </div>
 
+## What Can it Do?
+
+- Add a title
+- Add a description
+- Add an image
+- Add license badge
+- Add Travis CI badge
+- Choose alignment
+- Add sections such as "Install", "Usage", and "Examples"
+- Name the README file
+
 ## Install
 
 ```bash
