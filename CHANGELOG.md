@@ -2,6 +2,10 @@
 
 All changes to this project will be kept here and logged against the NPM version number.
 
+## v1.1.1
+
+- Fixed linting errors.
+
 ## v1.1.0
 
 - Added many new features:
