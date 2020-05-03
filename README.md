@@ -4,7 +4,7 @@
 
 Generate a Readme for your project with a simple CLI tool.
 
-[![Build Status](https://travis-ci.org/Justintime50/build-readme.svg?branch=master)](https://travis-ci.org/Justintime50/build-readme)
+[![Build Status](https://travis-ci.com/Justintime50/build-readme.svg?branch=master)](https://travis-ci.com/Justintime50/build-readme)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
 <img src="assets/showcase.gif">
