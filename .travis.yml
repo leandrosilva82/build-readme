@@ -8,5 +8,4 @@ node_js:
 script:
     - npm i
     - npx eslint index.js
-    - npx eslint lib/*
-
+    - npx eslint lib/*.js
